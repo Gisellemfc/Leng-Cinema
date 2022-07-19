@@ -1,5 +1,5 @@
 
-# Sunset Trips
+# Leng Cinema
 
 Project elaborated in the subject of Databases of the Universidad Metropolitana in Caracas, Venezuela. This project simulates a complete cinema website made with React, Django and MySQL.
 
